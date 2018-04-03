@@ -50,6 +50,16 @@
             "resource" : "/splashscreens/ios/2048x1536/splashscreen.png",
             "width" : "2048",
             "height" : "1536"
+        },
+		{
+            "resource" : "/splashscreens/ios/1125x2436/splashscreen.png",
+            "width" : "1125",
+            "height" : "2436"
+        },
+		{
+            "resource" : "/splashscreens/ios/2436x1125/splashscreen.png",
+            "width" : "2436",
+            "height" : "1125"
         }],
         "android" : [{
             "resource" : "/splashscreens/android/drawable-port-ldpi/splashscreen.png",
